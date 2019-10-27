@@ -21,10 +21,10 @@ ImageNet Classification with Deep Convolutional Neural Networks, NIPS 2012 [pape
 Very Deep Convolutional Neural Networks for Large-Scale Image Recognition, ICLR 2015 [paper](https://arxiv.org/pdf/1409.1556.pdf)
 Key Insight:  It's all about deep neural network architecture. This is one of the classic image classification architecture wherein many of our recent algorithm uses it as a backbone.
 
-Deep Residual Learning for Image Recognition, CVPR 2016 [paper] (https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Deep Residual Learning for Image Recognition, CVPR 2016 [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 Key Insight: Going deep requires us to consider the vanishing gradient problem. One way to alleviate it is to use a residual block that harnesses skip connection to propagate the gradients to the lower layers.
 
-Densely Connected Convolutional Network, CVPR 2017 [paper] (http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf)
+Densely Connected Convolutional Network, CVPR 2017 [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf)
 
 MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, [paper](https://arxiv.org/pdf/1704.04861.pdf)
 
