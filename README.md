@@ -26,18 +26,20 @@ Key Insight: Going deep requires us to consider the vanishing gradient problem. 
 
 Densely Connected Convolutional Network, CVPR 2017 [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf)
 
-MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, [paper](https://arxiv.org/pdf/1704.04861.pdf)
+MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, Arxiv 2017 [paper](https://arxiv.org/pdf/1704.04861.pdf)
 
 FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction, NIPS 2018 [web](http://papers.nips.cc/paper/7356-fishnet-a-versatile-backbone-for-image-region-and-pixel-level-prediction) [paper](http://papers.nips.cc/paper/7356-fishnet-a-versatile-backbone-for-image-region-and-pixel-level-prediction.pdf)
 
 ## Neural Network Modules
+
+Rectifier Nonlinearities Improve Neural Network Acoustic Models, ICML 2013 [paper](https://ai.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf)
+
 Dropout: A Simple Way to Prevent Neural Networks from Overfitting, JMLR 2014 [paper](http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf)   
 Key Insight:  It's all about the concept of regularization. On how we can use it to make our ML algorithm be more robust on generalizing on our test set.
 
 Adam: A Method for Stochastic Optimization, ICLR 2015 [paper](https://arxiv.org/pdf/1412.6980.pdf)   
 Key Insight:  It's about understanding the behaviours on how we optimize the weights of the network. We would understand the direction of the research on this field of optimization.
 
-Rectifier Nonlinearities Improve Neural Network Acoustic Models, ICML 2013 [paper](https://ai.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf)
 
 Batch Normalization, ICML 2015 [web](http://proceedings.mlr.press/v37/ioffe15.html) [paper](http://proceedings.mlr.press/v37/ioffe15.pdf)
 
@@ -47,6 +49,7 @@ Deformable Convolutional Networks, ICCV 2017 [website](http://openaccess.thecvf.
 
 Group Normalization, ECCV 2018 [paper](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Yuxin_Wu_Group_Normalization_ECCV_2018_paper.pdf)
 
+Deformable ConvNets v2: More Deformable, Better Results, CVPR 2019 [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Deformable_ConvNets_V2_More_Deformable_Better_Results_CVPR_2019_paper.pdf)
 
 ## Object Detection
 
@@ -67,7 +70,7 @@ Key Insight: Applying the principle of U-net for object detection
 
 Focal Loss for Dense Object Detection, ICCV 2017 [paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)
 
-Cascade R-CNN: Delving Into High Quality Object Detection [web](http://openaccess.thecvf.com/content_cvpr_2018/html/Cai_Cascade_R-CNN_Delving_CVPR_2018_paper.html) [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cai_Cascade_R-CNN_Delving_CVPR_2018_paper.pdf)
+Cascade R-CNN: Delving Into High Quality Object Detection, ECCV 2018 [web](http://openaccess.thecvf.com/content_cvpr_2018/html/Cai_Cascade_R-CNN_Delving_CVPR_2018_paper.html) [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cai_Cascade_R-CNN_Delving_CVPR_2018_paper.pdf)
 
 ## Multi-Object Tracker
 
@@ -85,11 +88,24 @@ Visualizing and Understanding Convolutional Networks, ECCV 2014 [paper](https://
 
 ## Sequence Models
 
-On the Properties of Neural Machine Translation: Encoder–Decoder Approaches [paper](https://arxiv.org/pdf/1409.1259.pdf)
+On the Properties of Neural Machine Translation: Encoder–Decoder Approaches, Arxiv 2014 [paper](https://arxiv.org/pdf/1409.1259.pdf)
 
-Empirical evaluation of gated recurrent neural networks on sequence modeling [paper](https://arxiv.org/pdf/1412.3555.pdf)
+Empirical evaluation of gated recurrent neural networks on sequence modeling, Arxiv 2014 [paper](https://arxiv.org/pdf/1412.3555.pdf)
 
 Sequence to Sequence Learning with Neural Networks, NIPS 2014 [website](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks) [paper](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 
 An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition, ICDAR 2015 [paper](https://arxiv.org/pdf/1507.05717.pdf)
 
+## Generative Advserial Network
+Generative Adversarial Nets, NIPS 2014 [paper](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+
+Unsupervised Representational Learning with Deep Convolutional Generative Adversarial Networks, ICLR 2016 [paper](https://arxiv.org/pdf/1511.06434.pdf)
+
+Unpaired Image-To-Image Translation Using Cycle-Consistent Adversarial Networks, ICCV 2017 [web](http://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html) [paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf)
+
+Image-to-Image Translation with Conditional Adversarial Networks, CVPR 2017 [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf)
+
+High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs [website](https://tcwang0509.github.io/pix2pixHD/) [paper](https://arxiv.org/pdf/1711.11585.pdf)
+
+## Motion Transfer
+Everybody Dance Now, ICCV 2019 [website](https://carolineec.github.io/everybody_dance_now/) [paper](https://arxiv.org/pdf/1808.07371.pdf)
