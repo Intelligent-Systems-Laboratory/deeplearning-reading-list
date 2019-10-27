@@ -18,23 +18,23 @@ Gradient-Based Learning Applied to Document Recognition, IEEE 1998 [paper](http:
 
 ImageNet Classification with Deep Convolutional Neural Networks, NIPS 2012 [paper](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 
-Very Deep Convolutional Neural Networks for Large-Scale Image Recognition, ICLR 2015 [paper](https://arxiv.org/pdf/1409.1556.pdf)
+Very Deep Convolutional Neural Networks for Large-Scale Image Recognition, ICLR 2015 [paper](https://arxiv.org/pdf/1409.1556.pdf)   
 Key Insight:  It's all about deep neural network architecture. This is one of the classic image classification architecture wherein many of our recent algorithm uses it as a backbone.
 
-Deep Residual Learning for Image Recognition, CVPR 2016 [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Deep Residual Learning for Image Recognition, CVPR 2016 [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)   
 Key Insight: Going deep requires us to consider the vanishing gradient problem. One way to alleviate it is to use a residual block that harnesses skip connection to propagate the gradients to the lower layers.
 
 Densely Connected Convolutional Network, CVPR 2017 [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf)
 
 MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, [paper](https://arxiv.org/pdf/1704.04861.pdf)
 
-FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction [web](http://papers.nips.cc/paper/7356-fishnet-a-versatile-backbone-for-image-region-and-pixel-level-prediction) [paper](http://papers.nips.cc/paper/7356-fishnet-a-versatile-backbone-for-image-region-and-pixel-level-prediction.pdf)
+FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction, NIPS 2018 [web](http://papers.nips.cc/paper/7356-fishnet-a-versatile-backbone-for-image-region-and-pixel-level-prediction) [paper](http://papers.nips.cc/paper/7356-fishnet-a-versatile-backbone-for-image-region-and-pixel-level-prediction.pdf)
 
 ## Neural Network Modules
-Dropout: A Simple Way to Prevent Neural Networks from Overfitting, JMLR 2014 [paper](http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf)
+Dropout: A Simple Way to Prevent Neural Networks from Overfitting, JMLR 2014 [paper](http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf)   
 Key Insight:  It's all about the concept of regularization. On how we can use it to make our ML algorithm be more robust on generalizing on our test set.
 
-Adam: A Method for Stochastic Optimization, ICLR 2015 [paper](https://arxiv.org/pdf/1412.6980.pdf)
+Adam: A Method for Stochastic Optimization, ICLR 2015 [paper](https://arxiv.org/pdf/1412.6980.pdf)   
 Key Insight:  It's about understanding the behaviours on how we optimize the weights of the network. We would understand the direction of the research on this field of optimization.
 
 Rectifier Nonlinearities Improve Neural Network Acoustic Models, ICML 2013 [paper](https://ai.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf)
@@ -62,7 +62,7 @@ SSD: single shot multibox detector, ECCV 2016 [paper](https://arxiv.org/pdf/1512
 
 Speed Accuracy trade-offs for modern convolutional object detection network, CVPR 2017 [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_SpeedAccuracy_Trade-Offs_for_CVPR_2017_paper.pdf) 
 
-Feature Pyramid Networks for Object Detection CVPR 2017 [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_Feature_Pyramid_Networks_CVPR_2017_paper.pdf)
+Feature Pyramid Networks for Object Detection CVPR 2017 [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_Feature_Pyramid_Networks_CVPR_2017_paper.pdf)   
 Key Insight: Applying the principle of U-net for object detection
 
 Focal Loss for Dense Object Detection, ICCV 2017 [paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)
@@ -84,6 +84,8 @@ Visualizing and Understanding Convolutional Networks, ECCV 2014 [paper](https://
 
 
 ## Sequence Models
+
+On the Properties of Neural Machine Translation: Encoder–Decoder Approaches [paper](https://arxiv.org/pdf/1409.1259.pdf)
 
 Empirical evaluation of gated recurrent neural networks on sequence modeling [paper](https://arxiv.org/pdf/1412.3555.pdf)
 
