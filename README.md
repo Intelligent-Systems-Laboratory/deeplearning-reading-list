@@ -28,6 +28,8 @@ Densely Connected Convolutional Network, CVPR 2017 [paper](http://openaccess.the
 
 MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, Arxiv 2017 [paper](https://arxiv.org/pdf/1704.04861.pdf)
 
+Squeeze and Excitation Network, CVPR 2018 [web](http://openaccess.thecvf.com/content_cvpr_2018/html/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.html) [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf)
+
 FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction, NIPS 2018 [web](http://papers.nips.cc/paper/7356-fishnet-a-versatile-backbone-for-image-region-and-pixel-level-prediction) [paper](http://papers.nips.cc/paper/7356-fishnet-a-versatile-backbone-for-image-region-and-pixel-level-prediction.pdf)
 
 ## Neural Network Modules
@@ -93,6 +95,8 @@ On the Properties of Neural Machine Translation: Encoder–Decoder Approaches, A
 Empirical evaluation of gated recurrent neural networks on sequence modeling, Arxiv 2014 [paper](https://arxiv.org/pdf/1412.3555.pdf)
 
 Sequence to Sequence Learning with Neural Networks, NIPS 2014 [website](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks) [paper](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+
+Neural Machine Translation by Jointly Learning to Align and Translate, ICLR 2015 [paper](https://arxiv.org/pdf/1409.0473.pdf) [slide](https://iclr.cc/archive/www/lib/exe/fetch.php%3Fmedia=iclr2015:bahdanau-iclr2015.pdf)
 
 An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition, ICDAR 2015 [paper](https://arxiv.org/pdf/1507.05717.pdf)
 
