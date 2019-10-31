@@ -24,9 +24,15 @@ Key Insight:  It's all about deep neural network architecture. This is one of th
 Deep Residual Learning for Image Recognition, CVPR 2016 [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)   
 Key Insight: Going deep requires us to consider the vanishing gradient problem. One way to alleviate it is to use a residual block that harnesses skip connection to propagate the gradients to the lower layers.
 
+Identity Mappings in Deep Residual Networks, ECCV 2016 [paper](https://arxiv.org/pdf/1603.05027.pdf)
+
 Densely Connected Convolutional Network, CVPR 2017 [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf)
 
+Xception: Deep Learning With Depthwise Separable Convolutions, CVPR 2017 [paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Chollet_Xception_Deep_Learning_CVPR_2017_paper.html)
+
 MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, Arxiv 2017 [paper](https://arxiv.org/pdf/1704.04861.pdf)
+
+ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices, CVPR 2018 [oaoer](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_ShuffleNet_An_Extremely_CVPR_2018_paper.html)
 
 Squeeze and Excitation Network, CVPR 2018 [web](http://openaccess.thecvf.com/content_cvpr_2018/html/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.html) [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf)
 
@@ -41,7 +47,6 @@ Key Insight:  It's all about the concept of regularization. On how we can use it
 
 Adam: A Method for Stochastic Optimization, ICLR 2015 [paper](https://arxiv.org/pdf/1412.6980.pdf)   
 Key Insight:  It's about understanding the behaviours on how we optimize the weights of the network. We would understand the direction of the research on this field of optimization.
-
 
 Batch Normalization, ICML 2015 [web](http://proceedings.mlr.press/v37/ioffe15.html) [paper](http://proceedings.mlr.press/v37/ioffe15.pdf)
 
@@ -81,6 +86,8 @@ Tracking without bells and whistles, ICCV 2019 [paper](https://arxiv.org/pdf/190
 ## Instance Segmentation
 
 U-net: Convolutional networks for biomedical image segmentation,  International Conference on Medical image computing and computer-assisted intervention 2015 [paper](https://arxiv.org/pdf/1505.04597.pdf) [web](https://arxiv.org/abs/1611.09326)
+
+Mask R-CNN, ICCV 2017 [web](http://openaccess.thecvf.com/content_iccv_2017/html/He_Mask_R-CNN_ICCV_2017_paper.html) [paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)
 
 Hybrid Task Cascade for instance segmentation, CVPR 2019 [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Hybrid_Task_Cascade_for_Instance_Segmentation_CVPR_2019_paper.pdf)
 
